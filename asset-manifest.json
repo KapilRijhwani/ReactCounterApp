@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ReactCounterApp/static/css/main.5facb584.chunk.css",
-    "main.js": "/ReactCounterApp/static/js/main.f67ab2b9.chunk.js",
-    "main.js.map": "/ReactCounterApp/static/js/main.f67ab2b9.chunk.js.map",
+    "main.js": "/ReactCounterApp/static/js/main.5f1872b9.chunk.js",
+    "main.js.map": "/ReactCounterApp/static/js/main.5f1872b9.chunk.js.map",
     "runtime-main.js": "/ReactCounterApp/static/js/runtime-main.fc57f087.js",
     "runtime-main.js.map": "/ReactCounterApp/static/js/runtime-main.fc57f087.js.map",
     "static/css/2.64a99b10.chunk.css": "/ReactCounterApp/static/css/2.64a99b10.chunk.css",
     "static/js/2.126485ba.chunk.js": "/ReactCounterApp/static/js/2.126485ba.chunk.js",
     "static/js/2.126485ba.chunk.js.map": "/ReactCounterApp/static/js/2.126485ba.chunk.js.map",
     "index.html": "/ReactCounterApp/index.html",
-    "precache-manifest.6afa51d76cb32be584cd6c2a84142cba.js": "/ReactCounterApp/precache-manifest.6afa51d76cb32be584cd6c2a84142cba.js",
+    "precache-manifest.796f3b99749bda9b709b3dda02945133.js": "/ReactCounterApp/precache-manifest.796f3b99749bda9b709b3dda02945133.js",
     "service-worker.js": "/ReactCounterApp/service-worker.js",
     "static/css/2.64a99b10.chunk.css.map": "/ReactCounterApp/static/css/2.64a99b10.chunk.css.map",
     "static/css/main.5facb584.chunk.css.map": "/ReactCounterApp/static/css/main.5facb584.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.64a99b10.chunk.css",
     "static/js/2.126485ba.chunk.js",
     "static/css/main.5facb584.chunk.css",
-    "static/js/main.f67ab2b9.chunk.js"
+    "static/js/main.5f1872b9.chunk.js"
   ]
 }
